@@ -2,6 +2,9 @@
 
 <p align="center">
    <div class="row">
+      <img src="screenshots/Quiz_Application.png" width="90%"/>
+   </div>
+   <div class="row">
 	   <img src="screenshots/login_page.png" width="30%"/>
 	   <img src="screenshots/quiz_page.png"  width="30%"/>
 	   <img src="screenshots/score_page.png" width="30%"/>
