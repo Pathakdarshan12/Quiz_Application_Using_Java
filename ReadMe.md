@@ -1,7 +1,16 @@
 # Quiz Application
 
 <p align="center">
-	<img src="screenshots/quiz_page.png" />
+   <div class="row">
+	   <img src="screenshots/login_page.png" width="30%"/>
+	   <img src="screenshots/quiz_page.png"  width="30%"/>
+	   <img src="screenshots/score_page.png" width="30%"/>
+   </div>
+   <div class="row">
+	   <img src="screenshots/add_question_admin.png" width="30%"/>
+	   <img src="screenshots/delete_question_admin.png" width="30%"/>
+	   <img src="screenshots/new_registration_admin.png" width="30%"/>
+   </div>
 </p>
 
 ## Table of Contents
