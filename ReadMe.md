@@ -1,7 +1,7 @@
 # Quiz Application
 
 <p align="center">
-	<img src="assets/" />
+	<img src="screenshots/quiz_page.png" />
 </p>
 
 ## Table of Contents
